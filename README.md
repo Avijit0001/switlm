@@ -26,7 +26,7 @@ pip install switlm
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/switlm.git
+git clone https://github.com/Avijit0001/switlm.git
 cd switlm
 pip install -e .
 ```

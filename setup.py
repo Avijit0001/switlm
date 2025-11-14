@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="switlm",
-    version="0.1.0",
+    version="0.1.1",
     author="Avijit Paul",
     author_email="avijit.paul0001@gmail.com",
     description="A simple yet powerful library to create and train custom LLMs with GGUF export",
